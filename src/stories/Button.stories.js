@@ -40,6 +40,7 @@ export const backgroundColor = Template.bind({})
 backgroundColor.args = {
     backgroundColor: "red",
     label: "Button with background color",
-    size: "md",
+    size: "md" ,
+    
 };
 
